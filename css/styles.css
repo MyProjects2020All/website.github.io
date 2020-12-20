@@ -1,0 +1,70 @@
+body {
+    background-color: #fefaec;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+.name {
+    padding: 2px;
+    margin: 3px;
+}
+
+.mail {
+    padding: 2px;
+    margin: 3px;
+}
+
+.msg {
+    padding: 2px;
+    margin: 3px;
+}
+
+.header {
+    display: block;
+    width: 100%;
+    height: 150px;
+}
+
+.left {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
+
+.mid {
+    display: inline-block;
+    width: 35%;
+}
+
+.right {
+    display: inline-block;
+    text-align: right;
+    width: 25%;
+    margin: 32px;
+    padding: 10px;
+}
+
+.ul li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 24px 13px;
+    margin-top: 40px;
+}
